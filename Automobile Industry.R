@@ -11,7 +11,7 @@ library(reshape2)
 
 
 # Import dataset
-car_data <- read.csv("C:/Users/Aasna/Downloads/Dataset 5 — Automobile data.csv")
+car_data <- read.csv("Automobile data.csv")
 
 #EDA + Preprocessing 
 summary(car_data)
