@@ -8,14 +8,7 @@ library(car)
 install.packages("corrplot")
 library(corrplot)
 library(reshape2)
-"
-***********************
-MGSC Final Project 
-Name:Aasna Shah
-Student Number: 251153155
-###############
 
-"
 
 # Import dataset
 car_data <- read.csv("C:/Users/Aasna/Downloads/Dataset 5 — Automobile data.csv")
